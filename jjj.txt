@@ -6,5 +6,5 @@ List接口->ArrayList   默认长度10，扩容：原始容量*3/2+1，线程不安全，可改用Vector
         ->LinkedList  双向循环链表，线程不安全
 
 Set接口->HashSet  只能存入一个null值，元素无序但位置固定
-123456
+123456+++
 -a
